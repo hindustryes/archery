@@ -9,7 +9,7 @@
 
 
 window.onload = function(){
-alert("Thanks everyone (specially SoloLearn) for making my code as Code Of The Day...\n👍👍👍")
+alert("This is created by utkarsh rai...\n👍👍👍")
 
 alert("Please make sure that your device is not in silent mode...");
 
